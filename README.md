@@ -59,6 +59,10 @@ Video demo: [https://youtu.be/brvNUPgw7ho](https://youtu.be/brvNUPgw7ho).
 #### Other ways
 If you want to use it locally (e.g., for development), please check our [online documentation](https://cristianzsh.github.io/freki) for more details.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Freki/)
+
 ## How to cite this work
 
 Freki was presented at the XXI Brazilian Symposium on Information and Computational Systems Security (SBSeg 2021).
